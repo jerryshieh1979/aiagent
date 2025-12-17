@@ -1,0 +1,5 @@
+{
+  "name": "Taiwan City Guide AI",
+  "description": "A RAG-based Q&A system for Taiwan cities using Gemini and Qdrant.",
+  "requestFramePermissions": []
+}
